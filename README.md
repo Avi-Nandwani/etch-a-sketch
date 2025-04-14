@@ -9,3 +9,7 @@ A fun browser-based sketching tool built with **HTML**, **CSS**, and **JavaScrip
 - 🔄 Clears the canvas with a single click
 - 🌈 Rainbow pen generates random colors on hover
 - 🖱️ Mouseover-based drawing interaction
+
+## 📷 Screenshot
+
+![Etch-a-Sketch Preview](preview.png)
