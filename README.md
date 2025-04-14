@@ -1,6 +1,6 @@
 # etch-a-sketch
 
-A fun browser-based sketching tool built with **HTML**, **CSS**, and **JavaScript**. Inspired by the classic Etch-a-Sketch toy, this interactive app lets you draw with various colors, erase, and create customizable grid sizes!
+A fun browser-based sketching tool built with **HTML**, **CSS**, and **JavaScript**. Inspired by the classic Etch-a-Sketch toy and completes the odin project task, this interactive app lets you draw with various colors, erase, and create customizable grid sizes!
 
 ## 🌟 Features
 
